@@ -51,7 +51,6 @@
 				{
 					hint = hint + " , " + array[i];
 				}
-				System.out.println("hint = " + hint);
 			}
 		}
 		
@@ -64,6 +63,4 @@
 			writer.write(hint);
 		}
 	}
-
-	System.out.println(query);
 %>
